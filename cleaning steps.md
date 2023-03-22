@@ -194,7 +194,7 @@ SET score = REPLACE(score, '8.7e-0', '8.7')
 WHERE score = '8.7e-0';
 ~~~
 
-# Setting empty rows to NULL data type
+## Setting empty rows to NULL data type
 
 ~~~sql
 --duration column
