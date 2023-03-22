@@ -34,6 +34,7 @@ And 102 rows, including the column header.
 ![](https://github.com/imanjokko/IMDb-Data-Cleaning-SQL/blob/main/images/messy_data2_sql.png)
 
 You should note some of the issues with this dataset that I mentioned earlier
+[view csv file](https://github.com/imanjokko/IMDb-Data-Cleaning-SQL/blob/main/IMDb%20data%20cleaning%20-%20messy_data.csv)
 
 # Cleaned Dataset
 ![](https://github.com/imanjokko/IMDb-Data-Cleaning-SQL/blob/main/images/cleaned_data_sql.png)
