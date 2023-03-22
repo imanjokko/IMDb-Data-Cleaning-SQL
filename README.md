@@ -42,7 +42,7 @@ You should note some of the issues with this dataset that I mentioned earlier
 Here, you can see the dataset looks more clean, consistent and useable
 
 # Cleaning steps
-To see the step by step of what I did, click here --> [Cleaning Steps]()
+To see the step by step of what I did, click here --> [Cleaning Steps](https://github.com/imanjokko/IMDb-Data-Cleaning-SQL/blob/main/cleaning%20steps.md)
 
 ---
 
