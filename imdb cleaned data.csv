@@ -1,0 +1,101 @@
+"imdb_title_id","original_title","release_year","genre","duration","country","content_rating","director","income_usd","votes","score"
+"tt0027977","Modern Times",1937,"Comedy, Drama, Family",87,"USA","G","Charles Chaplin",457688,21125,8.3
+"tt1853728","Django Unchained",2013,"Drama, Western",165,"USA","R","Quentin Tarantino",425368238,1317856,8.3
+"tt0120737","The Lord of the Rings: The Fellowship of the Ring",2002,"Action, Adventure, Drama",178,"New Zealand","PG-13","Peter Jackson",887934303,1619920,8.8
+"tt0103064","Terminator 2: Judgment Day",1991,"Action, Sci-Fi",137,"USA","R","James Cameron",520884847,97497,8.4
+"tt0114814","The Usual Suspects",1995,"Crime, Mystery, Thriller",106,"USA","R","Bryan Singer",23341568,968947,8.4
+"tt0110357","The Lion King",1994,"Animation, Adventure, Drama",88,"USA","G","Roger Allers, Rob Minkoff",968511805,917248,8.4
+"tt0108052","Schindler's List",1994,"Biography, Drama, History",NULL,"USA","R","Steven Spielberg",322287794,1183248,8.9
+"tt0253474","The Pianist",2002,"Biography, Drama, Music",150,"UK","R","Roman Polanski",120072577,707942,8.4
+"tt2582802","Whiplash",2015,"Drama, Music",106,"USA","R","Damien Chazelle",48983260,690732,8.4
+"tt0054215","Psycho",1960,"Horror, Mystery, Thriller",109,"USA","R","Alfred Hitchcock",32008644,586765,8.3
+"tt0064116","C'era una volta il West",1968,"Western",165,"Italy","PG-13","Sergio Leone",112911,29522,8.3
+"tt0080684","Star Wars: Episode V - The Empire Strikes Back",1980,"Action, Adventure, Fantasy",NULL,"USA","PG-13","Irvin Kershner",549265501,1132073,8.7
+"tt0071562","The Godfather: Part II",1975,"Crime, Drama",220,"USA","R","Francis Ford Coppola",408035783,1098714,9
+"tt1345836","The Dark Knight Rises",2012,"Action, Adventure",164,"UK","PG-13","Christopher Nolan",1081133191,1480582,8.3
+"tt0209144","Memento",2001,"Mystery, Thriller",113,"USA","R","Christopher Nolan",39970386,1098879,8.2
+"tt0910970","WALL·E",2008,"Animation, Adventure, Family",98,"USA","G","Andrew Stanton",521311860,974734,8.2
+"tt0081505","The Shining",1980,"Drama, Horror",146,"UK","R","Stanley Kubrick",46520613,86948,8.2
+"tt0082971","Raiders of the Lost Ark",1981,"Action, Adventure",115,"USA","PG-13","Steven Spielberg",390133212,86551,8.2
+"tt0078748","Alien",1979,"Horror, Sci-Fi",117,"UK","R","Ridley Scott",108110316,768874,8.2
+"tt0078788","Apocalypse Now",1979,"Drama, Mystery, War",147,"USA","R","Francis Ford Coppola",91968688,591251,8.2
+"tt0364569","Oldeuboi",2005,"Action, Drama, Mystery",120,"South Korea","R","Chan-wook Park",15002116,501082,8.1
+"tt0057012","Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",1964,"Comedy",95,"UK","PG-13","Stanley Kubrick",9443876,441115,8.1
+"tt0405094","Das Leben der Anderen",2007,"Drama, Mystery, Thriller",137,"Germany","R","Florian Henckel von Donnersmarck",77356942,349642,8.1
+"tt0119698","Mononoke-hime",2000,"Animation, Adventure, Fantasy",134,"Japan","PG-13","Hayao Miyazaki",169785629,331045,8
+"tt0087843","Once Upon a Time in America",1984,"Crime, Drama",229,"USA","R","Sergio Leone",5472914,302317,8
+"tt0169547","American Beauty",2000,"Drama",122,"USA","R","Sam Mendes",356296601,1049009,8
+"tt0112573","Braveheart",1995,"Biography, Drama, History",178,"USA","R","Mel Gibson",213216216,941683,7.9
+"tt0090605","Aliens",1986,"Action, Adventure, Sci-Fi",137,"USA","R","James Cameron",131384634,6395,7.7
+"tt0086190","Star Wars: Episode VI - Return of the Jedi",1983,"Action, Adventure, Fantasy",131,"USA","PG-13","Richard Marquand",475347111,928036,7.9
+"tt0105236","Reservoir Dogs",1992,"Crime, Drama, Thriller",99,"USA","R","Quentin Tarantino",2889963,896551,7.9
+"tt0111161","The Shawshank Redemption",1995,"Drama",142,"USA","R","Frank Darabont",28815245,2278845,9.3
+"tt0110912","Pulp Fiction",1994,"Crime, Drama",NULL,"USA","R","Quentin Tarantino",222831817,1780147,8.9
+"tt1375666","Inception",2010,"Action, Adventure, Sci-Fi",148,"USA","PG-13","Christopher Nolan",869784991,2002816,8.8
+"tt0109830","Forrest Gump",1994,"Drama, Romance",142,"USA","PG-13","Robert Zemeckis",678229452,1755490,8.8
+"tt0338013","Eternal Sunshine of the Spotless Mind",2004,"Drama, Romance, Sci-Fi",108,"USA","R","Michel Gondry",74036715,889875,7.9
+"tt0114709","Toy Story",1996,"Animation, Adventure, Comedy",81,"USA","G","John Lasseter",404265438,864461,7.9
+"tt0361748","Inglourious Basterds",2009,"Adventure, Drama, War",153,"Germany","R","Quentin Tarantino",321455689,1229958,8
+"tt0119217","Good Will Hunting",1998,"Drama, Romance",126,"USA","R","Gus Van Sant",225933435,837379,7.8
+"tt0070735","The Sting",1974,"Comedy, Crime, Drama",129,"USA","PG-13","George Roy Hill",156000000,236285,7.5
+"tt0082096","Das Boot",1982,"Adventure, Drama, Thriller",149,"Germany","R","Wolfgang Petersen",11487676,226427,7.5
+"tt1832382","Jodaeiye Nader az Simin",2011,"Drama",123,"Iran","PG-13","Asghar Farhadi",22926076,214165,7.4
+"tt0068646","The Godfather",1972,"Crime, Drama",175,"USA","R","Francis Ford Coppola",246120974,1572674,9.2
+"tt0468569","The Dark Knight",2008,"Action, Crime, Drama",152,"USA","PG-13","Christopher Nolan",1005455211,2241615,9
+"tt0034583","Casablanca",1946,"Drama, Romance, War",102,"USA","PG-13","Michael Curtiz",4374761,509953,8.3
+"tt0060196","Il buono, il brutto, il cattivo",1966,"Western",161,"Italy","Approved","Sergio Leone",25252481,672499,8.8
+"tt0167260","The Lord of the Rings: The Return of the King",2004,"Action, Adventure, Drama",201,"New Zealand","PG-13","Peter Jackson",1142271098,1604280,8.9
+"tt0076759","Star Wars",1977,"Action, Adventure, Fantasy",121,"USA","PG-13","George Lucas",775768912,1204107,8.6
+"tt0120815","Saving Private Ryan",1998,"Drama, War",169,"USA","R","Steven Spielberg",482349603,1203825,8.6
+"tt0180093","Requiem for a Dream",2000,"Drama",102,"USA","R","Darren Aronofsky",7390108,748291,7.8
+"tt0435761","Toy Story 3",2010,"Animation, Adventure, Comedy",103,"USA","G","Lee Unkrich",1066969703,739717,7.8
+"tt0086250","Scarface",1984,"Crime, Drama",170,"USA","R","Brian De Palma",66023585,721343,7.8
+"tt0075314","Taxi Driver",1976,"Crime, Drama",114,"USA","R","Martin Scorsese",28441292,703264,7.7
+"tt0211915","Le fabuleux destin d'Amélie Poulain",2002,"Comedy, Romance",122,"France","R","Jean-Pierre Jeunet",173924742,69048,7.7
+"tt0062622","2001: A Space Odyssey",1968,"Adventure, Sci-Fi",149,"UK","G","Stanley Kubrick",68989547,587866,7.6
+"tt0086879","Amadeus",1985,"Biography, Drama, History",160,"USA","R","Milos Forman",52066791,361028,7.6
+"tt2106476","Jagten",2012,"Drama",115,"Denmark","R","Thomas Vinterberg",15843274,269616,7.5
+"tt0056172","Lawrence of Arabia",1963,"Adventure, Biography, Drama",228,"UK","PG-13","David Lean",45710874,261504,7.5
+"tt0038650","It's a Wonderful Life",1948,"Drama, Family, Fantasy",130,"USA","PG-13","Frank Capra",6130720,38831,8.6
+"tt0172495","Gladiator",2000,"Action, Adventure, Drama",155,"USA","R","Ridley Scott",465361176,1308193,8.5
+"tt0407887","The Departed",2006,"Crime, Drama, Thriller",151,"USA","R","Martin Scorsese",291465034,1159703,8.5
+"tt0482571","The Prestige",2006,"Drama, Mystery, Sci-Fi",130,"UK","PG-13","Christopher Nolan",109676311,1155723,8.5
+"tt0088763","Back to the Future",1985,"Adventure, Comedy, Sci-Fi",116,"USA","PG-13","Robert Zemeckis",388774684,1027330,8.5
+"tt0120586","American History X",1999,"Drama",119,"USA","R","Tony Kaye",23875127,1014218,8.5
+"tt0208092","Snatch",2001,"Comedy, Crime",104,"UK","R","Guy Ritchie",83557872,766589,7.8
+"tt0099685","Goodfellas",1990,"Biography, Crime, Drama",146,"USA","R","Martin Scorsese",46879633,991505,8.7
+"tt0816692","Interstellar",2014,"Adventure, Drama, Sci-Fi",169,"USA","PG-13","Christopher Nolan",696742056,1449256,8.6
+"tt0114369","Se7en",1995,"Crime, Drama, Mystery",127,"USA","R","David Fincher",327333559,1402015,8.6
+"tt0102926","The Silence of the Lambs",1991,"Crime, Drama, Thriller",118,"USA","R","Jonathan Demme",272753884,1234134,8.6
+"tt0120689","The Green Mile",2000,"Crime, Drama, Fantasy",189,"USA","R","Frank Darabont",286801374,1112336,8.6
+"tt0317248","Cidade de Deus",2003,"Crime, Drama",130,"Brazil","R","Fernando Meirelles, Kátia Lund",30680793,685856,8.6
+"tt0245429","Sen to Chihiro no kamikakushi",2003,"Animation, Adventure, Family",125,"Japan","PG-13","Hayao Miyazaki",355467056,626693,8.6
+"tt0167261","The Lord of the Rings: The Two Towers",2003,"Action, Adventure, Drama",179,"New Zealand","PG-13","Peter Jackson",951227416,1449778,8.7
+"tt0073486","One Flew Over the Cuckoo's Nest",1976,"Drama",NULL,"USA","R","Milos Forman",108997629,891071,8.7
+"tt0137523","Fight Club",1999,"Drama",NULL,"UK","R","David Fincher",101218804,1807440,8.8
+"tt0133093","The Matrix",1999,"Action, Sci-Fi",NULL,"USA","R","Lana Wachowski, Lilly Wachowski",465718588,1632315,8.7
+"tt0110413","Léon",1995,"Action, Crime, Drama",110,"France",NULL,"Luc Besson",19552639,1007598,8.5
+"tt7286456","Joker",2019,"Crime, Drama, Thriller",122,"USA",NULL,"Todd Phillips",1074251311,855097,8.4
+"tt1675434","Intouchables",2012,"Biography, Comedy, Drama",112,"France",NULL,"Olivier Nakache, Éric Toledano",426588510,736691,8.4
+"tt0095327","Hotaru no haka",2015,"Animation, Drama, War",89,"Japan",NULL,"Isao Takahata",516962,225438,8.3
+"tt0095765","Nuovo Cinema Paradiso",1988,"Drama",155,"Italy",NULL,"Giuseppe Tornatore",13826605,22305,8.3
+"tt4154756","Avengers: Infinity War",2018,"Action, Adventure, Sci-Fi",149,"USA",NULL,"Anthony Russo, Joe Russo",2048359754,796486,8.2
+"tt4154796","Avengers: Endgame",2019,"Action, Adventure, Drama",181,"USA",NULL,"Anthony Russo, Joe Russo",2797800564,754786,8.2
+"tt0047396","Rear Window",1955,"Mystery, Thriller",112,"USA",NULL,"Alfred Hitchcock",37032034,43239,8.1
+"tt2380307","Coco",2017,"Animation, Adventure, Family",105,"USA",NULL,"Lee Unkrich, Adrian Molina",807083670,352455,8.1
+"tt4633694","Spider-Man: Into the Spider-Verse",2018,"Animation, Action, Adventure",117,"USA",NULL,"Bob Persichetti, Peter Ramsey",375540831,335892,8.1
+"tt1187043","3 Idiots",2009,"Comedy, Drama",170,"India",NULL,"Rajkumar Hirani",60262836,332217,8.1
+"tt0032553","The Great Dictator",1945,"Comedy, Drama, War",125,"USA",NULL,"Charles Chaplin",969879,197381,8
+"tt0050083","12 Angry Men",1957,"Crime, Drama",96,"USA",NULL,"Sidney Lumet",576,668473,8.9
+"tt0059578","Per qualche dollaro in più",1965,"Western",132,"Italy",NULL,"Sergio Leone",15000000,226039,7.4
+"tt0045152","Singin' in the Rain",1953,"Comedy, Musical, Romance",103,"USA",NULL,"Stanley Donen",1864182,213152,7.4
+"tt0043014","Sunset Blvd.",1966,"Drama, Film-Noir",110,"USA",NULL,"Billy Wilder",299645,195789,8
+"tt0066921","A Clockwork Orange",1972,"Crime, Drama, Sci-Fi",136,"UK",NULL,"Stanley Kubrick",26903440,740301,7.8
+"tt0093058","Full Metal Jacket",1987,"Drama, War",116,"UK",NULL,"Stanley Kubrick",46357676,658175,7.7
+"tt0033467","Citizen Kane",1948,"Drama, Mystery",119,"USA",NULL,"Orson Welles",1594107,389322,7.6
+"tt8579674","1917",2020,"Drama, War",119,"USA",NULL,"Sam Mendes",384857224,362897,7.6
+"tt0052357","Vertigo",1958,"Mystery, Romance, Thriller",128,"USA",NULL,"Alfred Hitchcock",7796389,352786,7.5
+"tt0053125","North by Northwest",1959,"Adventure, Mystery, Thriller",136,"USA",NULL,"Alfred Hitchcock",73446,291628,7.5
+"tt0118799","La vita B9 bella",1997,"Comedy, Drama, Romance",116,"Italy",NULL,"Roberto Benigni",230098753,605648,8.6
+"tt6751668","Gisaengchung",2019,"Comedy, Drama, Thriller",132,"South Korea",NULL,"Bong Joon Ho",257604912,470931,8.6
+"tt0047478","Shichinin no samurai",1955,"Action, Adventure, Drama",207,"Japan",NULL,"Akira Kurosawa",322773,307958,8.6
